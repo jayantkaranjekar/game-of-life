@@ -24,6 +24,7 @@
     <!--THis is first comment... -->
     <!--Comment via Gerrit... -->
     <!--Comment2 via Gerrit... -->
+    <!--Comment3 via Gerrit... -->
 
     <scm>
         <connection>scm:git:git@github.com:${github.account}/game-of-life.git</connection>
