@@ -1,0 +1,5 @@
+[gerrit]
+host=54.244.60.112
+port=29418
+project=jayantkaranjekar/game-of-life.git
+defaultbranch=dev01
