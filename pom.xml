@@ -28,6 +28,7 @@
     <!--Comment4 via Gerrit... -->
     <!--Comment5 via Gerrit... -->
     <!--Comment7 via Gerrit... -->
+    <!--Comment8 via Gerrit... -->
 
     <scm>
         <connection>scm:git:git@github.com:${github.account}/game-of-life.git</connection>
